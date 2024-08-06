@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+  margin-left: 50px;
+  color: white;
+}
+
+img {
+  margin-top: 50px;
+  padding-bottom: 36px;
+  width: 200px;
+  height: 240px;
+}
+
+h1 {
+  font-size: 36px;
+  color: rgb(79, 10, 79);
+}
+
+p {
+  font-size: 24px;
+  padding-top: 18px;
+}
+
+a {
+  display: inline-block;
+  padding-top: 18px;
+  padding-bottom: 25px;
+}
+
+.movie {
+  background-color: rgb(83, 212, 191);
+  color: black;
+  padding: 15px;
+  margin-right: 3cqb;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+ol {
+  padding: 20px;
+}
+
+.music {
+  background-color: rgb(106, 101, 192);
+  color: black;
+  padding: 15px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+ul {
+  padding: 20px;
+}
+
+footer p {
+  background-color: white;
+  color: rgb(79, 10, 79);
+  font-size: 14px;
+  text-align: center;
+  margin-left: -50px;
+  margin-top: 50px;
+}/*# sourceMappingURL=style.css.map */
